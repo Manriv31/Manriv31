@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&theme=cobalt />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2A1A5F,100:2A1A5F&reversal=true& />
 
 </div>
 <h3 align="center">
@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Manriv31/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Manriv31.Manriv31"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
