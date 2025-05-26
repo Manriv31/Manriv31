@@ -22,7 +22,7 @@
 - :computer: I have worked in different roles, including **QA Tester**, **Web Developer**, **Monitoring Analyst**, and **Data Engineer**.  
 - :student: Currently expanding my knowledge in **Cybersecurity**, **Web Development**, and **Data Analysis**.  
 - :nerd_face: Passionate about **learning new technologies** and optimizing processes.  
-- :thinking: Open to new **job opportunities**, here is [MY RESUME](http://your-resume-link.com).
+- :thinking: Open to new **job opportunities**
 <br>
 
  ### 📈 Activity Graph
